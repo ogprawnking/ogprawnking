@@ -5,12 +5,12 @@ Student: Game Programming
 -------------------------
 Currently working on C++ skills
 I'm aiming to begin a career in Game, Software and Website Programming & Development.
-* 🖥️ Looking for experience in programming content in C++
-* 🕸️ & expanding my knowledge in website developing!
+* 🖥️ Looking for experience in  (not limited to) programming content in C++, software, web development.
+* 🕸️ & expanding my knowledge in other languages and techniques!
 
 *   🌍  I'm based in Australia, Adelaide
 *   ✉️  You can contact me at [bryan.cast@outlook.com](mailto:email@outlook.com)
-*   🧠  I'm learning C++ with Unreal Engine 5
+*   🧠  I'm currently learning C++, Unreal Engine 5, use of API's and programs with networking. 
 
 <a href="https://www.github.com/ogprawnking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ogprawnking?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
