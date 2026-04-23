@@ -3,14 +3,14 @@ Hey!👋 I'm Bryan Castillo
 
 Student: Game Programming
 -------------------------
-Currently working on C++ skills
+Currently working on C
 I'm aiming to begin a career in Game, Software and Website Programming & Development.
 * 🖥️ Looking for experience in  (not limited to) programming content in C++, software, web development.
-* 🕸️ & expanding my knowledge in other languages and techniques!
 
-*   🌍  I'm based in Australia, Adelaide
+*   🌍  I'm based in Australia
 *   ✉️  You can contact me at [bryan.cast@outlook.com](mailto:email@outlook.com)
-*   🧠  I'm currently learning C++, Unreal Engine 5, use of API's and programs with networking. 
+*   🧠  I know C++, HMTL, CSS, JS, Unreal Engine 5. 
+*   🧠  I'm currently upskilling in WEB Dev, C++ programming, network programming.
 
 <a href="https://www.github.com/ogprawnking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ogprawnking?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/ogprawnking?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/brinecastle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ogprawnking" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/ogprawnking" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
